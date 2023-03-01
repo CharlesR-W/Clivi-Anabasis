@@ -1,0 +1,24 @@
+---
+title: "De Historiae Scienta"
+date: 2023-03-01
+---
+I wish to develop a mathematical framing to discuss theories of history.  The principal aim of this is to figure out how we can make epistemic sense of something like Marx's histroical materialism - or any similar forms of determinism.  In particular, there seems to be some difficulty in statements like "The social superstructure determines the form of the individual's life" - what is this superstructure if not the product, somehow, of individuals?  Though we feel such explanations, right or wrong, always posses some abstraction.  Thus it seems worthwhile to find a way to 'save' such statements from the jaws of holism.
+
+To set the stage, let us assume there are two 'levels' of ontology - the 'macro' and the 'micro'.  The 'macro' is determined strictly by the micro; an example might be something like the way GDP is related to the productive output of every individual, or the outcome of an election resulting from individuals' votes.  This breakdown isn't always so clear and this is perhaps one of the weaker parts of the framework, but it doesn't seem fully untenable.  Something like a declaration of war, for instance, would be related mostly to the decisions of e.g. a war minister and co. rather than to the whole country, which seems against the spirit of such a model.  The model applies best to cases where an outcome variable is the easily-measurable result of many aggregated inputs.
+We could say something like
+$$
+\begin{align}
+  &M(t) &= M(\mu(t)) \\
+  &\frac{d}{dt} \mu(t) &= f(\mu(t))
+\end{align}
+$$
+Where f is some unknown and practically intractable function.
+As we do not have access to f, and clearly have some conception that M should evolve in some coherent way 'on its own', I propose to treat models of history as models of this process.  We'll start deterministically for clarity, before we sprinkle in some Bayesianism.
+We wish for this model to be something of the form
+$$
+\begin{align}
+  &\frac{d}{dt} \tilde{M}(t) &= f(\tilde{M} \tilde{\mu(t)}) \\
+  &\frac{d}{dt} \tilde{\mu}(t) &= g(\tilde{M}, \tilde{\mu(t)})
+\end{align}
+$$
+There are two problems here - we sometimes have access to $\mu$ and sometimes to $M$
