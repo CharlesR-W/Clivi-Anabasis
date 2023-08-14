@@ -1,7 +1,8 @@
 ---
-title: "Clivi Anabasis - De Minore Terrore, Vertendum Industriam"
-date: a.d. XIX Kal. Sep. MMDCCLXXVI
+title: "De Minore Terrore Vertendum Industriam"
+date: 2023-08-14
 ---
+Scripsi Die: a.d. XIX Kal. Sep. MMDCCLXXVI
 
 Nunc medito de Alexei Grothendiecko, et de subito terrore mea.  Et alie, sententia de inferioritate per aliquam amicam quae Lesswrongae nuntium scripsit.
 Cogitatio de Grothendiecko est legere de illius opinionibus apud solitudinem.  Coniunctum esse sic: habeo aliquam terrorem inferioris essendi, et vertere in industriam, et minuere terrorem, et sese meliore scire vellem.
